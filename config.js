@@ -1,9 +1,9 @@
 module.exports = {
-  TOKEN: "",
-  ownerID: ["1004206704994566164", ""],
+  TOKEN: "MTMxMjAxMTMyMzU4NDAyNDY0Ng.G3iVve.wdhzr5CLO4tjHVGf-esOYiTP4QBUaao_UziLjQ",
+  ownerID: ["1213780176543023155", ""],
   botInvite: "",
   supportServer: "",
-  mongodbURL: "mongodb+srv://shiva:shiva@musicbotyt.ouljywv.mongodb.net/?retryWrites=true&w=majority",
+  mongodbURL: "mongodb+srv://THUNDER:<db_password>@thunder.4jzys.mongodb.net/?retryWrites=true&w=majority&appName=THUNDER",
   status: 'BrK',
   commandsDir: './commands',
   language: "en",
