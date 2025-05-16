@@ -104,6 +104,7 @@ if (config.TOKEN || process.env.TOKEN) {
 
 if(config.mongodbURL || process.env.MONGO){
   const mongoose = require("mongoose")
+ mongoose.set('strictQuery', true);
   mongoose.connect(config.mongodbURL || process.env.MONGO, {
   useNewUrlParser: true,
   useUnifiedTopology: true,
