@@ -3,7 +3,7 @@ module.exports = {
   ownerID: ["1213780176543023155", ""],
   botInvite: "",
   supportServer: "",
-  mongodbURL: "mongodb+srv://ROBAYED:<db_password>@thunder.fu6f0yg.mongodb.net/?retryWrites=true&w=majority&appName=THUNDER",
+  mongodbURL: "mongodb+srv://ROBAYED:THUNDER999@robayed.jiq915q.mongodb.net/?retryWrites=true&w=majority&appName=robayed",
   status: 'BrK',
   commandsDir: './commands',
   language: "en",
