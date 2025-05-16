@@ -1,9 +1,9 @@
 module.exports = {
   TOKEN: "",
-  ownerID: ["1213780176543023155", ""],
+  ownerID: ["1213780176543023155", "1213780176543023155"],
   botInvite: "",
   supportServer: "",
-  mongodbURL: "mongodb+srv://ROBAYED:THUNDER999@robayed.jiq915q.mongodb.net/?retryWrites=true&w=majority&appName=robayed",
+  mongodbURL: "mongodb+srv://ROBAYED:<db_password>@robayed.jiq915q.mongodb.net/?retryWrites=true&w=majority&appName=robayed",
   status: 'BrK',
   commandsDir: './commands',
   language: "en",
